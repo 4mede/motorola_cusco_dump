@@ -1,0 +1,14 @@
+# user 16 SUU32HV-W1-ST4.1 f5a36a release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: cusco
+- flavor: user
+- release: 16
+- id: SUU32HV-W1-ST4.1
+- incremental: f5a36a
+- tags: release-keys
+- fingerprint: motorola/cusco/cusco:12/SUU32HV-W1-ST4.1/f5a36a:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-SUU32HV-W1-ST4.1-f5a36a-release-keys
+- repo: motorola_cusco_dump
