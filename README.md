@@ -1,0 +1,14 @@
+# user 16 SUUS32HV-W1-ST4.1.1 1c8e4 release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: cusco
+- flavor: user
+- release: 16
+- id: SUUS32HV-W1-ST4.1.1
+- incremental: 1c8e4
+- tags: release-keys
+- fingerprint: motorola/cusco/cusco:12/SUUS32HV-W1-ST4.1.1/1c8e4:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-SUUS32HV-W1-ST4.1.1-1c8e4-release-keys
+- repo: motorola_cusco_dump
